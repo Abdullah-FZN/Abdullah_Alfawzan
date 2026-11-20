@@ -1,0 +1,28 @@
+# Data files
+data/
+*.csv
+*.xlsx
+*.json
+
+# Model files
+models/
+*.pkl
+*.h5
+*.joblib
+
+# Python
+__pycache__/
+*.pyc
+.env
+config.local.py
+
+# Jupyter & Outputs
+.ipynb_checkpoints/
+results/
+plots/
+logs/
+
+# IDE Files
+.vscode/
+.idea/
+*.swp
